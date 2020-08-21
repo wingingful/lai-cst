@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Wee Han;Tay;;;
-FN: Tay Wee Han
+N:Chian-Chen;Lai;;;
+FN: Lai Chian-Chen
 ORG:SmartTech;
-TITLE:Operation Manager
-EMAIL;type=INTERNET;type=WORK;type=pref:info@smarttech.sg
-TEL;type=WORK;type=VOICE:+65 9761 6359
+TITLE:Technical Director
+EMAIL;type=INTERNET;type=WORK;type=pref:lai@smarttech.sg
+TEL;type=WORK;type=VOICE:+65 9239 4797
 item1.ADR;type=WORK;type=pref:;;27 Mandai Estate\nInnovation Place Tower 2\, #04-01;;;729931;Singapore
 item1.X-ABADR:sg
 item2.URL;type=pref:smarttech.sg
